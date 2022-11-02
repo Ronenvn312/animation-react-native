@@ -5,7 +5,7 @@ import { Button, Image } from 'react-native';
 import icon from './assets/donut_red.png'
 
 
-export default function App() {
+export default function FollowMouse() {
 
   const [location, setLocation] 
       = useState({
